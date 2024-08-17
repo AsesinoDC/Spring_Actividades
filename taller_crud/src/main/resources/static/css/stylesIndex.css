@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    padding: 50px;
+    margin-top: 200px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.title {
+    color: red;
+    text-align: center;
+}
+
+nav{
+    background-color: #333;
+}
+
+.nav-link:hover{
+    color: red;
+}
